@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Automation of QA Automation, https://www.linkedin.com/in/stanislav-vasenkov
+There should probably be a link to a popular website with my profile here? It's sad, but I don't have that.
 
 ### Projects: 
 1) Maybe someday, there will be a link here - And here, will be something to tell about it.
