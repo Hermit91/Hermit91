@@ -5,18 +5,6 @@ There should probably be a link to a popular website with my profile here? It's 
 ### Projects: 
 1) Maybe someday, there will be a link here - And here, will be something to tell about it.
 
-2) Similar to the first inscription
-
-3) Similar to the first inscription
-
-4) Similar to the first inscription
-
-5) Similar to the first inscription
-
-6) Similar to the first inscription
-
-7) Similar to the first inscription
-
 ![Daniil's github stats](https://github-readme-stats.vercel.app/api?username=Hermit91&show_icons=true&theme=cobalt)
 
 <!--
